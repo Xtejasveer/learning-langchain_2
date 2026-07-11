@@ -6,3 +6,4 @@ python-dotenv
 langchain-google-genai
 langgraph
 langsmith
+streamlit
