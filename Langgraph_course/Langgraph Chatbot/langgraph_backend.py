@@ -16,7 +16,7 @@ base_url="https://openrouter.ai/api/v1",
 timeout=30,
 max_retries=2,
 )
-
+CONFIG = {'configurable' : {'thread_id' : 'thread_1'}}
 
 class ChatState(TypedDict):
     messages: Annotated[list[BaseMessage], add_messages]  ## All types of messages inherit from the BaseMessage class
