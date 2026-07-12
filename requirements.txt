@@ -7,3 +7,4 @@ langchain-google-genai
 langgraph
 langsmith
 streamlit
+langgraph-checkpoint-sqlite
