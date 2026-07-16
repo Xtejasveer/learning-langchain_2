@@ -8,3 +8,4 @@ langgraph
 langsmith
 streamlit
 langgraph-checkpoint-sqlite
+langsmith
